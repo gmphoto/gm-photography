@@ -8,5 +8,5 @@ const CONFIG_APP = {
     namaVendor: "GM PHOTOGRAPHY",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyAZczbLeVTXl-QKqLDJFWQLCd-lW9jqqxo"
+    googleApiKey: "AIzaSyA-LNZtQR6bcBH2AnCx8y4HJ7QH8U3ZOS4"
 };
